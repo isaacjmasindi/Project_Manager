@@ -1,0 +1,6 @@
+
+Project number: 2Customer Name: wezi
+Phone Number: 07483747383
+PhysicalAddress: windsor east
+EmailAddress: wezi@gmail.com
+Outstanding amount: R10000.0
